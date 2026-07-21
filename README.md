@@ -1,6 +1,6 @@
 # 🎓 AI Student Study Planner Agent
 
-An AI-powered study planning assistant built using **n8n** and **Google Gemini** to help students prepare effectively for exams. The agent generates personalized study schedules, practice quiz questions, revision checklists, and useful study tips based on the user's input.
+An AI-powered study planning assistant built using n8n and Google Gemini to help students prepare effectively for exams. The agent generates personalized study schedules, practice quiz questions, revision checklists, and useful study tips based on the user's input.
 
 ---
 
@@ -22,11 +22,11 @@ The user enters the subject and available study days, and the AI generates a cus
 
 ## 🛠️ Technology Stack
 
-* n8n Community Edition
-* Google Gemini API
-* AI Agent Node
-* Chat Trigger
-* GitHub
+n8n Community Edition
+Google Gemini API
+AI Agent Node
+Chat Trigger
+GitHub
 
 ---
 
